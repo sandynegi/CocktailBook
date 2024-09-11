@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "838E5FF3-DCB9-4B06-AE02-9DB01626C93C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CocktailBook.xcodeproj",
+      "identifier" : "E8324E75262076EB00FD2124",
+      "name" : "CocktailBook"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CocktailBook.xcodeproj",
+        "identifier" : "E8324E8B262076EE00FD2124",
+        "name" : "CocktailBookTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:CocktailBook.xcodeproj",
+        "identifier" : "E8324E96262076EE00FD2124",
+        "name" : "CocktailBookUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
